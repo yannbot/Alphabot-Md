@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="#requirements">Requirements</a> •
+  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
   <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
   <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
   <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
@@ -194,7 +194,8 @@ global.rpg = {
 ## Fitur bot preview
 <details>
 <summary> <b>Menu bot</b></summary><br/>
-<img src="https://telegra.ph/file/f7fd15439183e72240326.jpg" />
+<img src="https://telegra.ph/file/c438a5d2931a2c5228735.jpg" />
+<img src="https://telegra.ph/file/51ef048fdd08cffcef075.jpg" />
 </details>
 
 <details>
